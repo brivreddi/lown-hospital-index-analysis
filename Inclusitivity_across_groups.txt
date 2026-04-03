@@ -1,0 +1,4 @@
+group_type,total,inclusive
+Bottom,117,1
+Middle,1300,32
+Top,2429,162

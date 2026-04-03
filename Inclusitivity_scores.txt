@@ -1,0 +1,3 @@
+BADGE_TIER_3_Inclusivity,avg_income_score,avg_race_score,avg_education_score
+Badged,2.88,2.91,2.89
+Not Badged,4.7,3.99,4.46

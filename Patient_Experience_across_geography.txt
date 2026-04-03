@@ -1,0 +1,6 @@
+TYPE_urban,BADGE_TIER_3_Inclusivity,avg_patient_exp
+NULL,0,3.03
+0.0,0,3.34
+0.0,1,2.84
+1.0,0,3.33
+1.0,1,2.76
